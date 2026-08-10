@@ -15,9 +15,9 @@ Performance is evaluated against real-world factory constraints: 
 
 Evaluating on the test distribution (314 wafers; 21 actual failures): 
 
-* **Baseline Approach (Predict All Pass):** Misses all 21 defects, costing **$105,000**.
+* **Baseline Approach (Predict All Pass):** Misses all 21 defects, costing **$105,400**.
 * **Optimized Pipeline:** Catches 13 defects and incurs 97 false alarms, costing **$59,400**.
-* **Net Savings:** **$45,600** in operational risk mitigation.
+* **Net Savings:** **$46,000** in operational risk mitigation.
 
 # Repository Architecture & Iterative Development
 
